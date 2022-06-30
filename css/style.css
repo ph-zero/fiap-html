@@ -1,0 +1,21 @@
+.button-link a{
+    text-decoration: none;
+    color: white;
+}
+
+.button-link2 a {
+    text-decoration: none;
+    color: red;
+}
+.importantinfo{
+    font-weight: bolder;
+    text-shadow: 1px 1px #999898;
+}
+.acaosobe{
+    text-decoration: none;
+    color: green;
+}
+.acaodesce{
+    text-decoration: none;
+    color:red
+}
